@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This example was developed using a Claude tutorial given [here](https://www.youtube.com/watch?v=UVJXh57MgI0).
+This example in this repo was developed using a Claude tutorial given [here](https://www.youtube.com/watch?v=UVJXh57MgI0). It is also being used to test capabilities of Claude code GitHub workflow. Make sure @claude is mentioned in the issue and PR comments. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
